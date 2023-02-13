@@ -28,7 +28,7 @@ const people = [
     {
         id: 5,
         image: headShot,
-        name: 'jamie taber-plaisted',
+        name: 'sean hellens-harper',
         title: 'junior web developer',
     },
 ];
